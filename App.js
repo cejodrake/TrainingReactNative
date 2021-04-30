@@ -1,13 +1,10 @@
+import React, { useEffect, useState } from "react";
 
-import React from 'react'
+import Screen from "./app/components/Screen";
 
-import ListingEditScreen from './app/screens/ListingEditScreen';
-
-
-
+import ImageInputList from "./app/components/ImageInputList";
+import ListingEditScreen from "./app/screens/ListingEditScreen";
 
 export default function App() {
-  
-
-  return  <ListingEditScreen />
+  return <ListingEditScreen />;
 }
