@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# TrainingReactNative
+
+>>>>>>> e22123c4dab5772f3177e2421a4c24585ccda1e5
 This single App was built for the codewithmosh (The Ultimate React Native Series) The purpose of the project is to demonstrate understanding of the basic structure and operation of a React-Natives app.
 
 In the first part, we learned  how to:
@@ -19,7 +24,11 @@ In the first part, we learned  how to:
 - Use my favorite shortcuts to write code fast
 
 Resources:
+<<<<<<< HEAD
 - https://reactnative.dev
+=======
+- https://reactnative
+>>>>>>> e22123c4dab5772f3177e2421a4c24585ccda1e5
 - https://www.npmjs.com/package/yup
 - https://formik.org/
 - https://expo.io/
